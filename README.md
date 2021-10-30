@@ -1,7 +1,7 @@
 # Algorithms-HacktoberFesta
 
 Write Algorithm in any language and contribute to HacktoberFest
-
+v
 # Table of Algorithms
 
 `B` - Beginner, `A` - Advanced
